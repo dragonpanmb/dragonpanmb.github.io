@@ -14,3 +14,5 @@ REVIEWS: The 4.2 rating is a project-brief reference, not live data, and is labe
 BEFORE LAUNCH: Confirm hours, business details, current rating and menu with the owner. Menu is a selection, not a verified complete menu; no prices invented. Verify Maps destination. Add canonical and absolute Open Graph URLs after choosing a domain. Google Fonts and Maps require internet; system fonts are fallbacks. No tracking or checkout.
 
 Dragon artwork generated with Microsoft Copilot; decorative only, not the restaurant. Optimized WebP included. No autoplay video or heavy animation libraries. Responsive CSS, mobile call/directions bar, keyboard navigation, reduced motion, Eastern Time hours display.
+
+V2 UPDATE: Storefront is now the featured homepage hero image. Golden dragon emblem replaces DP initials in every page header. Place dp storefront.jpg (or supported extension) beside index.html. The actual storefront photo is still not attached; the labeled slot loads your file automatically.
