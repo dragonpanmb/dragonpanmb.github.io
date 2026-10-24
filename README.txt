@@ -16,3 +16,5 @@ BEFORE LAUNCH: Confirm hours, business details, current rating and menu with the
 Dragon artwork generated with Microsoft Copilot; decorative only, not the restaurant. Optimized WebP included. No autoplay video or heavy animation libraries. Responsive CSS, mobile call/directions bar, keyboard navigation, reduced motion, Eastern Time hours display.
 
 V2 UPDATE: Storefront is now the featured homepage hero image. Golden dragon emblem replaces DP initials in every page header. Place dp storefront.jpg (or supported extension) beside index.html. The actual storefront photo is still not attached; the labeled slot loads your file automatically.
+
+V3 UPDATE: Red & gold dragon wallpaper theme added site-wide (wallpaper.webp desktop, wallpaper-mobile.webp phones). Shown vividly in the homepage hero and page banners, dimmed behind content for readability. Wallpaper generated with Microsoft Copilot. To make the background brighter/darker, edit the "V3" block at the bottom of styles.css (the #0d0505d9 / #0d0505e6 overlay values).
